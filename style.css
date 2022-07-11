@@ -1,0 +1,30 @@
+header{
+    background-color: #1F2937;
+    color: white;
+}
+header h1{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+header h2{
+    font-size: 48px;
+    font-weight: #F9FAF8;
+}
+header a{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+header p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button{
+    background-color: #3882F6;
+}
+
+.quote{
+    background-color: #E5E7EB;
+}
+footer{
+    background-color: #1F2937;
+}
